@@ -25,3 +25,7 @@ Because this template uses Vite to build your code, you can add install and use 
 ## Learn More
 
 Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.
+
+## Example
+<img width="1329" alt="Screenshot 2025-06-23 at 7 28 15 PM" src="https://github.com/user-attachments/assets/a1fa82b2-14f9-4919-b314-26317e39fcec" />
+
